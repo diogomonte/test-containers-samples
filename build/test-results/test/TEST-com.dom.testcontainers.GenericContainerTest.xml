@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dom.testcontainers.GenericContainerTest" tests="2" skipped="2" failures="0" errors="0" timestamp="2019-04-09T14:44:08" hostname="Diogos-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="itShouldTestHealthRequest" classname="com.dom.testcontainers.GenericContainerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="itShouldTestHelloRequest" classname="com.dom.testcontainers.GenericContainerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+### Gradle ###
+build
+.gradle
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### bin stuff ###
+**/bin/
+
+### Common ###
+bin
+out
+

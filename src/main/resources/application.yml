@@ -1,0 +1,4 @@
+
+service:
+  url: ${SERVICE_URL}
+  port: ${SERVICE_PORT}
