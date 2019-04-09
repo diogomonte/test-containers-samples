@@ -3,14 +3,13 @@ package com.dom.testcontainers;
 import com.jayway.restassured.RestAssured;
 import com.jayway.restassured.http.ContentType;
 import org.hamcrest.CoreMatchers;
-import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.testcontainers.containers.GenericContainer;
 
 import java.time.Duration;
 
-public class DockerFileTestContainer {
+public class GenericContainerTest {
 
 	@Rule
 	public GenericContainer container = new GenericContainer("diogomonte/rest-api-application")
