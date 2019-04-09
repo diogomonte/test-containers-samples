@@ -1,0 +1,4 @@
+rootProject.name = 'test-containers-samples'
+include 'rest-api-application'
+include 'rest-api-application'
+
